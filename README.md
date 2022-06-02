@@ -1,4 +1,4 @@
-# Nutrition-Tracker-Web-app with python Django
+# Nutrition-Tracker-Web-app with Python -Django
 
 Create a virtual environment
 
