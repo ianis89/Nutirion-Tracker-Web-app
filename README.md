@@ -12,7 +12,10 @@ Requirements:
     Django(I am using version 3.1)
     Django-filter
 
-To run our local server and test we just need to run (python manage.py runserver)    
+To run our local server and test we just need to run (python manage.py runserver)
+
+https://www.youtube.com/watch?v=wbW-FXqujD8&t=186s
+
 
     
 Here are some images from the website:
