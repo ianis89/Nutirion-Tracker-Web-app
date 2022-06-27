@@ -14,7 +14,7 @@ Requirements:
 
 To run our local server and test we just need to run (python manage.py runserver)
 
-https://www.youtube.com/watch?v=wbW-FXqujD8&t=186s
+
 
 
     
