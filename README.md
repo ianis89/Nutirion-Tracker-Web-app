@@ -18,7 +18,7 @@ To run our local server and test we just need to run (python manage.py runserver
 
 
     
-Here are some images from the website:
+Here are some website images:
 
 ![Screenshot from 2022-06-02 15-51-29](https://user-images.githubusercontent.com/95642631/171680649-9efde7d5-bbb8-4e8e-927d-fd9a9c59ebcc.png)
 
